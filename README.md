@@ -2,4 +2,4 @@
 
 App de Arketaip y Paramétrica publicada con GitHub Pages. Los datos de obras no se guardan aquí: viven cifrados en cada dispositivo y en Drive.
 
-Versión publicada: v48-202610131152
+Versión publicada: v49-202610131234
